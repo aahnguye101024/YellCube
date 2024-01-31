@@ -1,0 +1,1425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\AaronN\Desktop\Personal\PersonalProjects\YellCube\YellCubeLights\YellCubeLights.kicad_sch</source>
+    <date>4/16/2022 9:31:28 PM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>YellCubeLights</title>
+        <company/>
+        <rev>A</rev>
+        <date>2022-04-16</date>
+        <source>YellCubeLights.kicad_sch</source>
+        <comment number="1" value="Aaron Nguyen"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6547f93-ae7b-49d5-9cd3-db1bd4fe750a</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b0e0920-86b4-4a1b-b25a-9201817c6a8c</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1b05265-ebbe-46d0-8f26-861dba6f0f2d</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fa9f26f-181c-4272-9534-03061d2c9314</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b37e53e6-881a-471f-9dd1-0c0512e2d41e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dac0b826-5975-4906-a6a9-01fffaffebab</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e298f168-eddd-4c6f-a80d-b1b29fcd1cb1</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d4fc7af-8922-48d6-bbaf-7dbfdda00f49</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>844a58ec-9653-4d91-8b94-b6dbdfa95156</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f45109d0-fc24-4ef1-a6b7-009162f288ff</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e68f86ee-e77d-48cc-9a8f-29563769c1d5</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3c12f93-15a4-4f41-a370-638bb89a9703</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fa595ff-ec03-4213-9bd1-d7640126224d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aff1bc93-3507-4fde-b8d1-7b3a76806da5</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb9b9e59-192d-464f-ac48-f4ebd325782b</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec982efc-4640-476f-a9cf-23b90a684f3f</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee8020c5-4a48-4d84-a295-a078459e195a</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3917edf-2a36-4142-a346-dfc0f2c2ef70</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dd50c64-8b24-4534-8256-dda0f8ac8a0a</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb1d3f23-a2e2-47a3-9ff8-0627428b24f2</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e88497c5-5f9a-4318-b48d-be0a22b8001d</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dddac029-145b-40a3-9207-03f6eafc50ed</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a6d1956-e075-4241-aac4-abdf5dfa1830</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1685f323-13dc-43f3-a2ee-62e92120ff24</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d972354f-943f-492d-85f0-da23dad2e48a</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13ddb390-f74e-444b-8d0c-426c6d17e0c3</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d18fb1b0-c14a-4061-a288-a0485d4afde7</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d56e349-b83a-4277-bf4b-ec271569484c</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0506764e-98a9-479f-90d3-df8f4c070e18</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>B4B-PH-SM4-TBT(LF)(SN)</value>
+      <footprint>personal:B4B-PH-SM4-TBT(LF)(SN)</footprint>
+      <fields>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Part Number">455-2873-1-ND</field>
+        <field name="Type">JST PH</field>
+      </fields>
+      <libsource lib="personal_connectors" part="B4B-PH-SM4-TBT(LF)(SN)" description="JST PH CONN HEADER SMD 4POS 2MM"/>
+      <property name="Manufacturer" value="JST Sales America Inc."/>
+      <property name="Part Number" value="455-2873-1-ND"/>
+      <property name="Type" value="JST PH"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b7c432c-05e0-447e-ab94-adefe619ea48</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_ISO14580</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d47aa12-cd25-48bd-9cdf-0189de647c3e</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_ISO14580</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91bf0ae5-8968-4e77-9007-cdf0059bcd9b</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_ISO14580</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a9da1c4-b0ff-45da-bcef-aa4a21a7fba3</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_ISO14580</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae54eb6a-3da4-403f-a66e-1336c226eb7d</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d678ff1-21aa-4e6f-ae06-abf24406f3c8</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf730181-7397-4503-80ef-046eb3d1eb4a</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1a3a10e-cc3d-4561-b680-9827bf3ea6bc</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7abeb60c-ab93-45ae-8bd7-2d2dba3594c1</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7c9aab8-f41f-47ac-a53c-19213e9f8e52</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d2a58c1-2be0-43df-b55b-44e48a22f7d1</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c11dd8a-37bb-4f67-b4c9-51fb05b841af</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b258686-9044-4047-a01f-d73270ab38e7</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>913787ff-8576-4df1-87fc-9ff0f56d6be7</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6c11dc8-2024-421e-a1e5-a6c992f397ff</tstamps>
+    </comp>
+    <comp ref="LED11">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4ec1feb-fe93-44fc-98b1-414acb3250de</tstamps>
+    </comp>
+    <comp ref="LED12">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09ee6e65-bd6b-4ee4-bb1b-654c9c325738</tstamps>
+    </comp>
+    <comp ref="LED13">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6dba110-9dcb-4d50-b397-df9772d542af</tstamps>
+    </comp>
+    <comp ref="LED14">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07c17e10-5560-4156-9713-0f67f6493f38</tstamps>
+    </comp>
+    <comp ref="LED15">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd166523-e434-434e-a9d8-28cded4d2d60</tstamps>
+    </comp>
+    <comp ref="LED16">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04300b86-b9c0-49bf-8428-36a616b274e8</tstamps>
+    </comp>
+    <comp ref="LED17">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e459ada7-34b3-4a8c-b506-2e70b5f3dd18</tstamps>
+    </comp>
+    <comp ref="LED18">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc348c7b-b9de-4917-9d06-a1629e262273</tstamps>
+    </comp>
+    <comp ref="LED19">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fe368a2-8d7a-4722-b8d5-5b688ad01737</tstamps>
+    </comp>
+    <comp ref="LED20">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cead3c6-cbc1-4528-ab94-9f5b49504f58</tstamps>
+    </comp>
+    <comp ref="LED21">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>285b46a4-6c96-414b-8d04-5fed778f4b6b</tstamps>
+    </comp>
+    <comp ref="LED22">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00492843-08e0-4829-92ad-fdfb8abe5761</tstamps>
+    </comp>
+    <comp ref="LED23">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae9674f5-58a3-42e5-ae2b-143db4506a2f</tstamps>
+    </comp>
+    <comp ref="LED24">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>beafe330-13da-4aca-a3b5-ca115aefc61e</tstamps>
+    </comp>
+    <comp ref="LED25">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c10005b1-3c0b-4a3f-a38c-6d5a62d853ec</tstamps>
+    </comp>
+    <comp ref="LED26">
+      <value>SK6812</value>
+      <footprint>personal:SK6812</footprint>
+      <fields>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <libsource lib="personal_leds" part="SK6812" description="RGBW LED"/>
+      <property name="Manufacturer" value="Pololu"/>
+      <property name="Part Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f2f0f82-3920-4d4f-b00c-26d521ea710d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>33</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part Number">311-33.0LRCT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="33" description="RES 33 OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Part Number" value="311-33.0LRCT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="YellCubeLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e54140d3-a951-433a-91c7-674cd84b8939</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="personal_capacitors" part="0.1uF">
+      <description>CAP CER 0.1UF 25V X5R 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0.1uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="1uF">
+      <description>CAP CER 1UF 10V X5R 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">1uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="2.2uF">
+      <description>CAP CER 2.2UF 10V X5R 0603</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">2.2uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_connectors" part="B4B-PH-SM4-TBT(LF)(SN)">
+      <description>JST PH CONN HEADER SMD 4POS 2MM</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??-1MP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">B4B-PH-SM4-TBT(LF)(SN)</field>
+        <field name="Footprint">personal:B4B-PH-SM4-TBT(LF)(SN)</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Part Number">455-2873-1-ND</field>
+        <field name="Type">JST PH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="MP" name="MountPin" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_leds" part="SK6812">
+      <description>RGBW LED</description>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">SK6812</field>
+        <field name="Footprint">personal:SK6812</field>
+        <field name="Manufacturer">Pololu</field>
+        <field name="Part Number">N/A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="33">
+      <description>RES 33 OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">33</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part Number">311-33.0LRCT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="personal_capacitors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_capacitors.kicad_sym</uri>
+    </library>
+    <library logical="personal_connectors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_connectors.kicad_sym</uri>
+    </library>
+    <library logical="personal_leds">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_leds.kicad_sym</uri>
+    </library>
+    <library logical="personal_resistors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_resistors.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/DOUT1">
+      <node ref="LED6" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED7" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="2" name="/DOUT2">
+      <node ref="LED12" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED13" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="3" name="/DOUT3">
+      <node ref="LED18" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED19" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="4" name="/DOUT4">
+      <node ref="LED24" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED25" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="CN1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="CN1" pin="MP" pinfunction="MountPin" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED10" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED11" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED12" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED13" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED14" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED15" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED16" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED17" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED18" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED19" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED2" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED20" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED21" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED22" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED23" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED24" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED25" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED26" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED3" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED4" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED5" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED6" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED7" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED8" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED9" pin="1" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="6" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(LED1-Pad4)">
+      <node ref="LED1" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED2" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(LED2-Pad4)">
+      <node ref="LED2" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED3" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(LED3-Pad4)">
+      <node ref="LED3" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED4" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(LED4-Pad4)">
+      <node ref="LED4" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED5" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(LED5-Pad4)">
+      <node ref="LED5" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED6" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(LED7-Pad4)">
+      <node ref="LED7" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED8" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(LED8-Pad4)">
+      <node ref="LED8" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED9" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(LED10-Pad2)">
+      <node ref="LED10" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="LED9" pin="4" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(LED10-Pad4)">
+      <node ref="LED10" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED11" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(LED11-Pad4)">
+      <node ref="LED11" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED12" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(LED13-Pad4)">
+      <node ref="LED13" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED14" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(LED14-Pad4)">
+      <node ref="LED14" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED15" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(LED15-Pad4)">
+      <node ref="LED15" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED16" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(LED16-Pad4)">
+      <node ref="LED16" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED17" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(LED17-Pad4)">
+      <node ref="LED17" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED18" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(LED19-Pad4)">
+      <node ref="LED19" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED20" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(LED20-Pad4)">
+      <node ref="LED20" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED21" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(LED21-Pad4)">
+      <node ref="LED21" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED22" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(LED22-Pad4)">
+      <node ref="LED22" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED23" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(LED23-Pad4)">
+      <node ref="LED23" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED24" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(LED25-Pad4)">
+      <node ref="LED25" pin="4" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED26" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(R1-Pad1)">
+      <node ref="CN1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="VDD">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="LED1" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED10" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED11" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED12" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED13" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED14" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED15" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED16" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED17" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED18" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED19" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED2" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED20" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED21" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED22" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED23" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED24" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED25" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED26" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED3" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED4" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED5" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED6" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED7" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED8" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED9" pin="3" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="30" name="unconnected-(CN1-Pad3)">
+      <node ref="CN1" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(LED26-Pad4)">
+      <node ref="LED26" pin="4" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
